@@ -1,4 +1,4 @@
-shiny-examples
+useful shiny-models 
 ==============
 
 This is a collection of Shiny examples. You can see them in action on
